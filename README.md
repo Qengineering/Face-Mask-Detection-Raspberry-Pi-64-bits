@@ -43,4 +43,5 @@ slim_320.bin <br/>
 slim_320.param <br/>
  <br/>
 The RFB-320 model recognizes slightly more faces than slim_320 at the expense of a little bit of speed.<br/>
-It is up to you.<br/>
+It is up to you.<br/><br/>
+See the video at https://youtu.be/LDPXgJv3wAk
