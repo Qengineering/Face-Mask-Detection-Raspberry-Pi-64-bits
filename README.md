@@ -18,7 +18,7 @@ To run the application, you have to:
 - A raspberry Pi 4 with a 64-bit operating system. It can be the Raspberry 64-bit OS, or Ubuntu 18.04 / 20.04. [Install 64-bit OS](https://qengineering.eu/install-raspberry-64-os.html) <br/>
 - The Paddle Lite framework installed. [Install Paddle](https://qengineering.eu/install-paddle-on-raspberry-pi-4.html) <br/>
 - The Tencent ncnn framework installed. [Install ncnn](https://qengineering.eu/install-ncnn-on-raspberry-pi-4.html) <br/>
-- OpenCV 64 bit installed. [Install OpenCV 4.3](https://qengineering.eu/install-opencv-4.3-on-raspberry-64-os.html) <br/>
+- OpenCV 64 bit installed. [Install OpenCV 4.5](https://qengineering.eu/install-opencv-4.5-on-raspberry-64-os.html) <br/>
 - Code::Blocks installed. (```$ sudo apt-get install codeblocks```)
 ## Running the app.
 To extract and run the network in Code::Blocks <br/>
