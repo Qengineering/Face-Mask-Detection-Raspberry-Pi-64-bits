@@ -68,7 +68,7 @@ int main(int argc,char ** argv)
     cout << "Start grabbing, press ESC on Live window to terminate" << endl;
 
     while(1){
-//        frame=cv::imread("Face.jpg");  //if you want to run just one picture need to refresh frame before class detection
+//        frame=cv::imread("Face_2.jpg");  //if you want to run just one picture need to refresh frame before class detection
         cap >> frame;
         if (frame.empty()) {
             cerr << "ERROR: Unable to grab from the camera" << endl;
