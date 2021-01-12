@@ -1,7 +1,7 @@
 # Face Mask Detection on Raspberry Pi 64 bits
 ![output image]( https://qengineering.eu/images/FamilyOut.jpg )
 
-## A fast face mask recognition running at 24-5 FPS on bare Raspberry Pi 4.
+## A fast face mask recognition running at 24-5 FPS on bare a Raspberry Pi 4.
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 This is a fast C++ implementation of two deep learning models found in the public domain. <br/><br/>
 The first is face detector of Linzaer running on a ncnn framework.<br/> 
