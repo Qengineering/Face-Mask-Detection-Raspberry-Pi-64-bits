@@ -13,8 +13,8 @@ FPS = 1.0/(0.04 + 0.01 x #Faces) when overclocked to 1950 MHz. <br/><br/>
 Paper: https://arxiv.org/abs/1905.00641.pdf <br/>
 Size: 320x320 <br/><br/>
 Special made for a bare Raspberry Pi see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html) <br/>
-## Version 2.0.
-A new and superior version with only TensorFlow Lite for a bare Raspberry Pi see [GitHub](https://github.com/Qengineering/TensorFlow_Lite_Face_Mask_RPi_64-bits) <br/>
+### New version 2.0.
+A new and superior version with only __TensorFlow Lite__ for a bare Raspberry Pi see [GitHub](https://github.com/Qengineering/TensorFlow_Lite_Face_Mask_RPi_64-bits) <br/>
 ## Dependencies.
 To run the application, you have to:
 - A raspberry Pi 4 with a 64-bit operating system. It can be the Raspberry 64-bit OS, or Ubuntu 18.04 / 20.04. [Install 64-bit OS](https://qengineering.eu/install-raspberry-64-os.html) <br/>
