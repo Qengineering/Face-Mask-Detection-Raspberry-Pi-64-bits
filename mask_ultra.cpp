@@ -19,7 +19,9 @@
 #include "opencv2/imgcodecs.hpp"
 #include "opencv2/imgproc.hpp"
 #include <opencv2/highgui.hpp>
-#include "paddle_api.h"  // NOLINT
+#include "paddle_api.h"             // NOLINT
+#include "paddle_use_kernels.h"     // NOLINT
+#include "paddle_use_ops.h"         // NOLINT
 #include "UltraFace.hpp"
 
 using namespace std;
