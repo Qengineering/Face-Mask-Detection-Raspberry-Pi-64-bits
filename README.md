@@ -1,3 +1,4 @@
+![output image](https://qengineering.eu/images/SDcard16GB_tiny.jpg) Find this example on our [SD-image](https://github.com/Qengineering/RPi-image)
 # Face Mask Detection on Raspberry Pi 64 bits
 ![output image]( https://qengineering.eu/images/FamilyOut.jpg )
 
